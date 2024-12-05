@@ -21,6 +21,7 @@ const Header = () => {
                     <HiMenu />
                     <CgProfile></CgProfile>
                 </button>
+                <a href='#'>Hello</a>
             </div>
         </div>
     </>
